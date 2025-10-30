@@ -14,7 +14,7 @@ Before running the app, make sure you have the following installed on your machi
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/krish3957/toDoList.git
+   git clone https://github.com/jeetpatel1/ToDoList.git
    ```
 
 ## Navigate to the project directory:
